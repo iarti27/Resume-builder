@@ -63,8 +63,7 @@ This project is a comprehensive web application that allows users to create and 
   - GitHub API
 
 ## Getting Started
-
-HOSTING-LINK:https://vishuswastik.github.io/Resume-builder/                         
+                    
 
 ### Step-by-Step Guide
 
